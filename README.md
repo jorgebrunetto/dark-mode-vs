@@ -2,7 +2,7 @@
 
 Your eyes will thank you. Save your eyes.
 
-![React/JS (Details)](static/screenshot.png)
+![React/JS (Details)](https://raw.githubusercontent.com/jorgebrunetto/dark-mode-vs/main/static/screenshot.jpg)
 
 [GitHub repository](https://github.com/jorgebrunetto/dark-mode-vs)
 
