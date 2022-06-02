@@ -21,7 +21,7 @@ Your eyes will thank you. Save your eyes.
 
 ```javascript
 {
-    "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Lucida Console', monospace",
     "workbench.colorTheme": "Dark Mode VS",
     "editor.cursorStyle": "block",
     "editor.minimap.enabled": false,
