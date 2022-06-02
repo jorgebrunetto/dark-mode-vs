@@ -1,0 +1,30 @@
+{
+    "name": "dark-mode-vs",
+    "displayName": "Dark Mode VS",
+    "description": "Your eyes will thank you. Save your eyes.",
+    "version": "1.0.0",
+    "publisher": "jorgebrunetto",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Mode VS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-mode-vs.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "Dark Mode",
+        "Dark Mode VS",
+        "Dark Visual Code",
+        "Dark VS",
+        "Dark"
+    ]
+}
