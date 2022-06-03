@@ -3,9 +3,12 @@
     "displayName": "Dark Mode VS",
     "description": "Your eyes will thank you. Save your eyes.",
     "version": "1.2.0",
-    "publisher": "jorgebrunetto",
+    "publisher": "DarkModeVS",
     "engines": {
-        "vscode": "^1.18.0"
+        "vscode": "^1.63.0"
+    },
+    "scripts": {
+        "build": "vsc package"
     },
     "categories": [
         "Themes"
