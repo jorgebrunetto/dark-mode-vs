@@ -2,7 +2,7 @@
     "name": "dark-mode-vs",
     "displayName": "Dark Mode VS",
     "description": "Your eyes will thank you. Save your eyes.",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "publisher": "DarkModeVS",
     "engines": {
         "vscode": "^1.63.0"
